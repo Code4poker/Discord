@@ -1,0 +1,35 @@
+{
+    "accounts" : [
+        {
+            "name": "Iter",
+            "headers": {
+                "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36",
+                "authorization": ""
+            },
+            "proxies": {
+                "http": "http://Seldeadokyanday:U6e2DeA@68.67.198.172:45785",
+                "https": "http://ERLwvs:7jWM41@93.31.100.214:9116"
+            },
+            "bot_id": "id бота вставить",
+            "chat_ids": [
+                "id чата вставить"
+            ]
+        },
+        {
+            "name": "Check",
+            "headers": {
+                "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.53 Safari/537.36 Edg/103.0.1264.37",
+                "authorization": ""
+            },
+            "proxies": {
+                "http": "http://Seldeadokyanday:U6e2DeA@68.67.198.172:45785",
+                "https": "http://ERLwvs:7jWM41@93.31.100.214:9116"
+            },
+            "bot_id": "id бота вставить",
+            "chat_ids": [
+                "id чата вставить"
+            ]
+        }
+    ]
+}
+
